@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tlu8592/node-api4-project/issues"
   },
-  "homepage": "https://github.com/tlu8592/node-api4-project#readme"
+  "homepage": "https://github.com/tlu8592/node-api4-project#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
 }
